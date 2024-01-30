@@ -35,3 +35,4 @@ h #NA representa un valor vacio
 is.na(h)#Consulta si en la lista de valores H existe un NA
 
 mean(c(4,8)) #Funcion que demuestra el promedio
+
